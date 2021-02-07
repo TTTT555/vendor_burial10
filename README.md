@@ -1,4 +1,6 @@
-G-cam Burial 9 mod app for Begonia
+G-cam Burial 10 mod app for Begonia
+ * slightly modified by the AMG team, in order not to have conflicts with other mods
+ * use attached .xml config for best result
 
-Add to *.mk
-```$(call inherit-product, vendor/burial9/config.mk)```
+For build, add to *.mk
+```$(call inherit-product, vendor/burial10/config.mk)```
